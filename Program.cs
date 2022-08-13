@@ -25,13 +25,13 @@ void Zadacha43 ()
     Console.WriteLine ("y = k(i)*x + b(i), где");
     Console.WriteLine ("k(i)");
     Console.WriteLine ("b(i)");
-    Console.Write ("Введите значение k1 первой прямой");
+    Console.Write ("Введите значение k1 первой прямой - ");
     double k1 = Convert.ToInt32 (Console.ReadLine ());
-    Console.Write ("Введите значение b1 первой прямой");
+    Console.Write ("Введите значение b1 первой прямой - ");
     double b1 = Convert.ToInt32 (Console.ReadLine ());
-    Console.Write ("Введите значение k2 первой прямой");
+    Console.Write ("Введите значение k2 первой прямой - ");
     double k2 = Convert.ToInt32 (Console.ReadLine ());
-    Console.Write ("Введите значение b2 первой прямой");
+    Console.Write ("Введите значение b2 первой прямой - ");
     double b2 = Convert.ToInt32 (Console.ReadLine ());
     double x;
     double y;
